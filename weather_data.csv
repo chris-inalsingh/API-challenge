@@ -1,4 +1,4 @@
-City Name,Clouds,Country,Date,Humidity,Max Temperature,Latitude,Longitude,Wind Speed
+City Name,Cloudiness,Country,Date,Humidity,Max Temperature,Latitude,Longitude,Wind Speed
 Luanda,75,AO,1604720566,94,25.0,-8.84,13.23,3.6
 Kruisfontein,100,ZA,1604720567,95,13.33,-34.0,24.73,2.09
 Albany,28,US,1604720569,57,11.67,42.6,-73.97,2.06
