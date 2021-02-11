@@ -1,4 +1,4 @@
-# API-challenge
+# WeatherPy 
 
 ### Analysis
 * The weather becomes significantly warmer as one approaches the equator (0 Deg. Latitude). More interestingly, however, is the fact that the southern hemisphere tends to be warmer this time of year than the northern hemisphere. This may be due to the tilt of the earth.
